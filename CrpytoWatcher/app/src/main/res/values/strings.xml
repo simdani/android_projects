@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Crypto Watcher</string>
+
+    <string-array name="currency_array">
+        <item>Select crypto...</item>
+        <item>ripple</item>
+        <item>bitcoin-cash</item>
+        <item>cardano</item>
+        <item>neo</item>
+        <item>litecoin</item>
+        <item>stellar</item>
+        <item>eos</item>
+        <item>nem</item>
+        <item>iota</item>
+        <item>dash</item>
+        <item>monero</item>
+        <item>bitcoin</item>
+        <item>ethereum</item>
+    </string-array>
+</resources>
